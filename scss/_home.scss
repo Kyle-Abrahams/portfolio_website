@@ -9,8 +9,10 @@
       rgba($primary-color, 0.8),
       rgba($primary-color, 0.8)
     ),
-    url("../dist/img/hero-img.jpg") center top;
+    url("../dist/img/IMG_4544_adobespark_adobespark.jfif") center top;
   background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
 
   &__name {
     font-size: 5rem;
